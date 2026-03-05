@@ -367,7 +367,7 @@ class _HomeScreenState extends State<HomeScreen> {
         _buildMenuButton(
           context,
           icon: Icons.share_rounded,
-          label: '공유하기',
+          label: '소개하기',
           onTap: _shareApp,
         ),
       ],
